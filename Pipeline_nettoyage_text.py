@@ -1,4 +1,3 @@
-#Tokenization d'une phrase
 
 from textblob import TextBlob
 import re
