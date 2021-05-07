@@ -1,6 +1,6 @@
 # Projet-articles-medicaux
 
-#librairie à installer:
+# librairie à installer:
 
 $ pip install PyPDF2
 $ pip install -U textblob
